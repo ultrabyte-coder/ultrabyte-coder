@@ -4,7 +4,7 @@
 
 ![SamiZdatCodeLab](https://img.shields.io/badge/🔥_SamiZdatCodeLab-UNDERGROUND_LAB-ff00ff?style=for-the-badge&logo=github&logoColor=white)
 
-### Подпольная Python-лаборатория | Backend Developer 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Подпольная+Python-лаборатория;Backend+Developer)](https://git.io/typing-svg)
 
 [![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=flat-square&logo=statuspage&logoColor=black)](https://github.com/ultrabyte-coder)
 [![Python](https://img.shields.io/badge/PYTHON-3.10+-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
@@ -85,11 +85,13 @@ class SamiZdatCodeLab:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ultrabyte-coder&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ultrabyte-coder&layout=compact&theme=radical&hide_border=true)
+![Followers](https://img.shields.io/github/followers/ultrabyte-coder?style=for-the-badge&label=Followers&color=ff00ff&labelColor=1a1a2e)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ultrabyte-coder&query=$.public_repos&style=for-the-badge&label=Public%20Repos&color=00ff00&labelColor=1a1a2e)
+![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ultrabyte-coder&query=$.public_gists&style=for-the-badge&label=Gists&color=00bfff&labelColor=1a1a2e)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ultrabyte-coder&theme=radical&hide_border=true)
+
+![Snake](https://raw.githubusercontent.com/ultrabyte-coder/ultrabyte-coder/output/snake-dark.svg)
 
 </div>
 
