@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=ff00ff&height=200&section=header&text=HELLO&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FRIEND&descAlignY=60&descSize=50)
+
 <div align="center">
 
 ![SamiZdatCodeLab](https://raw.githubusercontent.com/ultrabyte-coder/ultrabyte-coder/main/ascii-art-text.png)
@@ -123,3 +125,5 @@ class SamiZdatCodeLab:
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=ultrabyte-coder%2Fultrabyte-coder&countColor=%23ff00ff&style=for-the-badge&logo=github)
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=ff00ff&height=120&section=footer)
