@@ -43,6 +43,7 @@ class SamiZdatCodeLab:
 | **[twitter-clone-fastapi](https://github.com/ultrabyte-coder/twitter-clone-fastapi)** | `FastAPI` `PostgreSQL` `Docker + Docker Compose` `Swagger/OpenAPI` `pytest + pytest-cov` | 🔥 Hot |
 | **[megano-online-store](https://github.com/ultrabyte-coder/megano-online-store)** | `Python` `Django` `Django REST Framework` `SQLite` `Pillow` `django-cors-headers` | 🛒 E-commerce |
 | **[macro-economic-analyze](https://github.com/ultrabyte-coder/macro-economic-analyzer)** | `Python` `tabulate` `pytest + pytest-cov` | 📈 Analytics |
+| **[coffee-analyzer](https://github.com/ultrabyte-coder/coffee-analyzer)** | `Python` `tabulate` `pytest + pytest-cov` `ruff` | 📈 Analytics |
 | **[HolaBot](https://github.com/ultrabyte-coder/HolaBot)** | `Aiogram` `SQLAlchemy` `SQLite` `OpenAI` `HuggingFace` `gTTS` `YooKassa` `matplotlib` `Docker` | 🤖 Bot |
 | **[CLEANUP_FEDORA](https://github.com/ultrabyte-coder/CLEANUP_FEDORA)** | `Bash` `Linux` `Automation` | 🧹 Utility |
 | **[Sport_Shop_Bot](https://github.com/ultrabyte-coder/Sport_Shop_Bot)** | `Aiogram` `SQLite` `aiosqlite` `python-dotenv` `pytest` | 🛍️ Bot-Shop |
