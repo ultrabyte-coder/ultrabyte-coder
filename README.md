@@ -41,6 +41,7 @@ class SamiZdatCodeLab:
 
 | 📁 Проект | 🏷️ Технологии | 📊 Статус |
 |-----------|---------------|-----------|
+| **[custom-auth-rbac](https://github.com/ultrabyte-coder/custom-auth-rbac)** | `FastAPI` `PostgreSQL` `SQLAlchemy (async)` `JWT` `RBAC` `Docker` `pytest` | 🔐 Security |
 | **[usb_toolkit](https://github.com/ultrabyte-coder/usb_toolkit)** | `Bash` `Python` `Linux` `TUI` `USB` | 🚀 Toolkit |
 | **[twitter-clone-fastapi](https://github.com/ultrabyte-coder/twitter-clone-fastapi)** | `FastAPI` `PostgreSQL` `Docker + Docker Compose` `Swagger/OpenAPI` `pytest + pytest-cov` | 🔥 Hot |
 | **[megano-online-store](https://github.com/ultrabyte-coder/megano-online-store)** | `Python` `Django` `Django REST Framework` `SQLite` `Pillow` `django-cors-headers` | 🛒 E-commerce |
@@ -78,6 +79,7 @@ class SamiZdatCodeLab:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Toolkit](https://img.shields.io/badge/Toolkit-USB%20Toolkit-FF6B6B?style=for-the-badge&logo=toolkit&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 </div>
 
